@@ -1,6 +1,6 @@
 
 
-- protocol: sonance6
+- protocol: sonance
   name: "Sonance 6-Zone Amp Protocol"
 
   connection:
