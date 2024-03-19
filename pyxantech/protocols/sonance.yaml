@@ -3,7 +3,7 @@
 
   connection:
     rs232:
-      baud: 9600
+      baud: 19200
       data: 8
       parity: N
       stop: 1
