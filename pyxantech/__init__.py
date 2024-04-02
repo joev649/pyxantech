@@ -563,6 +563,7 @@ async def async_get_amp_controller(
                 await asyncio.sleep(0.1)  # pause 100 ms
 
     protocol = get_device_config(amp_type, "protocol")
+    protocol = "sonance"
     protocol_config = PROTOCOL_CONFIG[protocol]
 
     # allow overriding the default serial port configuration, in case the user has changed
