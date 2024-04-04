@@ -34,7 +34,7 @@
   max_treble: 8
   max_volume: 60
 
-  protocol: sonance6
+  protocol: sonance
   min_time_between_commands: 0.4
 
   rs232:
